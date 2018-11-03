@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">AMazeBySeanThomson</string>
+    <string name="main_title">Escape the Maze</string>
+    <string name="difficulty_select">Select maze difficulty</string>
+    <string name="generate_button">Generate new maze</string>
+    <string name="load_button">Load previous maze</string>
+    <string name="generator_select">Select maze generation algorithm</string>
+    <string name="robot_select">Select robot algorithm</string>
+    <string-array name="generator_options">
+        <item>Default</item>
+        <item>Eller</item>
+        <item>Prim</item>
+    </string-array>
+    <string-array name="robot_options">
+        <item>Manual</item>
+        <item>Wizard</item>
+        <item>Wall Follower</item>
+        <item>Pledge</item>
+    </string-array>
+    <string name="back_button">Back to menu</string>
+    <string name="maze_creation">Creating maze...</string>
+    <string name="toggle_map_on">Toggle map on</string>
+    <string name="toggle_map_off">Toggle map off</string>
+    <string name="toggle_solution_on">Toggle solution on</string>
+    <string name="toggle_solution_off">Toggle solution off</string>
+    <string name="toggle_walls_on">Toggle walls on</string>
+    <string name="toggle_walls_off">Toggle walls off</string>
+    <string name="energy">Remaining energy</string>
+    <string name="finish">You\'ve finished the maze!</string>
+    <string name="win_button">Go to win screen</string>
+    <string name="play">Go to play activity</string>
+    <string name="finish_lose">Sorry! You didn\'t finish the maze!</string>
+    <string name="lose_button">Go to lose screen</string>
+    <string name="energy_left">Energy left:</string>
+    <string name="path">Path length:</string>
+    <string name="start_explore">Start maze exploration</string>
+    <string name="pause_explore">Pause maze exploration</string>
+    <string name="finish_instr">Press the back button to go back to the main menu</string>
+    <string name="finish_instr_cont">Choose the same skill level if you wish the restart the maze</string>
+</resources>
